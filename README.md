@@ -2,7 +2,7 @@
 
 100-Days-of-Code Challenge!
 
-# 2022/05/30 Day01 一個可以裁切與放大圖片的程式
+# 2022/05/30 Day01
 
 OpenCV:
 
