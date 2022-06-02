@@ -14,3 +14,7 @@ Learned how to make a countdown clock, with chosen color.
 # 2022/06/01 Day03
 
 Create a video player plus a simple T-Bar for PD to switch/replay between videos. 
+
+# 2022/06/02 Day04
+
+Learned how to recognize faces in a video, and show it in a small window.
