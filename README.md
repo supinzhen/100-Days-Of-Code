@@ -18,3 +18,7 @@ Create a video player plus a simple T-Bar for PD to switch/replay between videos
 # 2022/06/02 Day04
 
 Learned how to recognize faces in a video, and show it in a small window.
+
+# 2022/06/03 Day04
+
+Create a simple video switcher, which have Multi-Viewer and can record.
