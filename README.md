@@ -26,3 +26,7 @@ Create a simple video switcher, which have Multi-Viewer and can record.
 # 2022/06/04 Day06
 
 Learned how to link google drive with colab and read images in drive.
+
+# 2022/06/05 Day07
+
+Learned how to turn part of the image to string.
