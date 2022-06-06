@@ -30,3 +30,7 @@ Learned how to link google drive with colab and read images in drive.
 # 2022/06/05 Day07
 
 Learned how to turn part of the image to string.
+
+# 2022/06/06 Day08
+
+Convert a countdown clock video into string.
