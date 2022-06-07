@@ -34,3 +34,7 @@ Learned how to turn part of the image to string.
 # 2022/06/06 Day08
 
 Convert a countdown clock video into string.
+
+# 2022/06/07 Day 09
+
+Learned how to adjust hue, lightness and saturation of an image.
