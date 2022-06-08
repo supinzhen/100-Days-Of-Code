@@ -38,3 +38,7 @@ Convert a countdown clock video into string.
 # 2022/06/07 Day 09
 
 Learned how to adjust hue, lightness and saturation of an image.
+
+# 2022/06/08 Day 10.
+
+Learned how to turned image into negative, and how to adjust contrast.
