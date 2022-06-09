@@ -42,3 +42,6 @@ Learned how to adjust hue, lightness and saturation of an image.
 # 2022/06/08 Day 10.
 
 Learned how to turned image into negative, and how to adjust contrast.
+
+# 2022/06/09 Day 11.
+Learned how to blur and transhold images, and save it into a jpg or png file, with custom file name.
