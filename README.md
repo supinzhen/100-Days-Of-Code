@@ -51,6 +51,6 @@ Learned how to blur and transhold images, and save it into a jpg or png file, wi
 
 Learned Edge detection.
 
-# 2022/06/11 Day 13.
+# 2022/06/11 Day 13
 
 Learned how to key images and video.
