@@ -54,3 +54,7 @@ Learned Edge detection.
 # 2022/06/11 Day 13
 
 Learned how to key images and video.
+
+# 2022/06/12 Day 14
+
+Learned color detection, and pixelate part of the image.
