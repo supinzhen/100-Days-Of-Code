@@ -59,6 +59,6 @@ Learned how to key images and video.
 
 Learned color detection, and pixelate part of the image.
 
-# 2022/06/13 Day 15.
+# 2022/06/13 Day 15
 
 Create a 8-input video switcher, can load, cut video and have tolly light.
