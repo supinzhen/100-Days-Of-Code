@@ -66,3 +66,7 @@ Create a 8-input video switcher, can load, cut video and have tolly light.
 # 2022/06/14 Day 16
 
 Learned how to read and show gif images, and add a T-Bar to my 8-input switcher.
+
+# 2022/06/15 Day 17
+
+Learned how to create gradient img.
