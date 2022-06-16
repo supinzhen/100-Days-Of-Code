@@ -70,3 +70,7 @@ Learned how to read and show gif images, and add a T-Bar to my 8-input switcher.
 # 2022/06/15 Day 17
 
 Learned how to create gradient img.
+
+# 2022/06/16 Day 18
+
+Learned how to adjust opacity and create a filter.
