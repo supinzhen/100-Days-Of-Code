@@ -74,3 +74,11 @@ Learned how to create gradient img.
 # 2022/06/16 Day 18
 
 Learned how to adjust opacity and create a filter.
+
+# 2022/06/17 Day 19
+
+Learned how to create gradient image with adjustable color.
+
+# 2022/06/18 Day 20
+
+Try to write python script that can run in OBS.
