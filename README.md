@@ -82,3 +82,7 @@ Learned how to create gradient image with adjustable color.
 # 2022/06/18 Day 20
 
 Try to write python script that can run in OBS.
+
+# 2022/06/19 Day 21
+
+Add a key feature ,which can key logo and put it on the program, to my video switcher.
