@@ -86,3 +86,7 @@ Try to write python script that can run in OBS.
 # 2022/06/19 Day 21
 
 Add a key feature ,which can key logo and put it on the program, to my video switcher.
+
+# 2022/06/20 Day 22
+
+Learned how to turned part of the image into GaussianBlur, and how to show the histogram.
