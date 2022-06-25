@@ -90,3 +90,7 @@ Add a key feature ,which can key logo and put it on the program, to my video swi
 # 2022/06/20 Day 22
 
 Learned how to turned part of the image into GaussianBlur, and how to show the histogram.
+
+# 2022/06/25 Day 23
+
+Create a simple image editor, which can crop and adjust contrast and brightness, with histogram.
