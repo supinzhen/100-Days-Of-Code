@@ -94,3 +94,7 @@ Learned how to turned part of the image into GaussianBlur, and how to show the h
 # 2022/06/25 Day 23
 
 Create a simple image editor, which can crop and adjust contrast and brightness, with histogram.
+
+# 2022/06/26 Day 24
+
+Use openCV to turn my smartphone's wallpaper into a negative photo, and learned HLS colorspace.
