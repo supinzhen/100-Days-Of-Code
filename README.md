@@ -98,3 +98,7 @@ Create a simple image editor, which can crop and adjust contrast and brightness,
 # 2022/06/26 Day 24
 
 Use openCV to turn my smartphone's wallpaper into a negative photo, and learned HLS colorspace.
+
+# 2022/06/27 Day 25
+
+Add a filter to my image editor.
