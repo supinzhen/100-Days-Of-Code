@@ -102,3 +102,7 @@ Use openCV to turn my smartphone's wallpaper into a negative photo, and learned 
 # 2022/06/27 Day 25
 
 Add a filter to my image editor.
+
+# 2022/06/28 Day 26
+
+Optimized my image editor and add a negative tool.
